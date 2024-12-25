@@ -1,6 +1,6 @@
 # Hola, soy Juan David 👋
 
-Soy un desarrollador con enfoque en **Ruby on Rails** para crear aplicaciones web, y actualmente estoy aprendiendo a subir archivos a **Amazon AWS**. Además, estoy profundizando en **diseño UX/UI** y mejorando mis habilidades en **inglés** para mejorar mi alcance profesional.
+Soy un desarrollador junior con enfoque en **Ruby on Rails** para crear aplicaciones web, y actualmente estoy aprendiendo a subir archivos a **Amazon AWS**. Además, estoy profundizando en **diseño UX/UI** y mejorando mis habilidades en **inglés** para mejorar mi alcance profesional.
 
 ## 🚀 Habilidades
 
