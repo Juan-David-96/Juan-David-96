@@ -29,7 +29,7 @@ Soy un desarrollador junior con enfoque en **Ruby on Rails** para crear aplicaci
 - [Proyecto Rails - Mini Red social](https://github.com/Juan-David-96/Crazy4Cats): Aplicación para publicar, reacionar y comentar post con Ruby on Rails.
 - [Proyecto Rails con AWS](https://github.com/Juan-David-96/Esteban-Work): Aprendiendo a integrar Amazon S3 para el manejo de archivos.
 
-## 🔗 Conéctame
+## 🔗 Contactame
 
 - **WhatsApp**: [Enlace a WhatsApp](https://wa.me/+56959647152)
 - **Email**: jdvc96@gmail.com
